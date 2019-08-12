@@ -190,6 +190,7 @@ console.log(joe.scopeArrow());
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
+//
 // This is the instance of Student that was instantiated on line 149
 // 2. What is "this" when joe.scopeArrow() is invoked?
 //  It appears to be the scope of the arrow function which is the entire window.
